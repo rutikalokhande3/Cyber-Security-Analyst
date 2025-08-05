@@ -1,2 +1,4 @@
 # Cyber-Security-Analyst
-Completed Tata’s Cyber Security Analyst Virtual Experience on Forage, simulating real-world tasks at TechCorp. Gained hands-on skills in threat detection, phishing analysis, incident response, and SIEM tools—building a strong foundation in cybersecurity practices.
+As a Cyber Security Analyst at TechCorp (via Tata Forage Virtual Program), I engaged in real-world simulations including phishing detection, threat analysis, SIEM log interpretation, and incident reporting. The program helped build hands-on skills in securing digital systems and understanding cybersecurity workflows within a corporate environment.
+
+
